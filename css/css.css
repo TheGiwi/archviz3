@@ -1,0 +1,68 @@
+.header-styling {
+	 padding-bottom: 0.5rem;
+	
+}
+
+.header-styling a:link{
+	 text-decoration: none;
+}
+
+.header-styling a:visited {
+	 text-decoration: none;
+}
+
+.header-styling a:hover {
+	 color: #a55818;
+}
+
+.main-title {
+	 text-align: center;
+	 color: #cecece;
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 700;
+}
+
+#btn-fonts{
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 700;
+}
+
+.btn-categories {
+	 background-color: antiquewhite;
+	 border-color: rgb(189, 123, 75);
+	 color:rgb(68, 68, 68);
+	 font-weight: bolder;
+	 border-width: 0.2rem;
+}
+
+.style1{
+	 padding : 0.15em;
+	 border-radius: 0.8em;
+	 background-color: #a55818;
+	 margin:0.2em;
+	 text-align: center;
+}
+
+.thumbnails {
+	 border-radius: 0.8em;
+	 width: 100%; 
+	 padding-bottom: 0.2rem; 
+}
+
+.thumbnails-modal {
+	 border-radius: 0.8em;
+	 width: 120%  
+}
+
+.modal-aspectratio{
+	 padding-top: 60%;
+   }
+
+#myButton{
+	 background-color: antiquewhite;
+	 border-color: rgb(189, 123, 75);
+	 color:rgb(68, 68, 68);
+	 font-weight: bolder;
+   }
+
+
